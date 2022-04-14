@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+.html {
+    background-color: #181a1b;
+    color: #e8e6e3;
+}
+
 body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
