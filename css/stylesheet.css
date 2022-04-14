@@ -2,14 +2,11 @@
     box-sizing: border-box;
 }
 
-.lesson-wrapper {
-    background-color: #181a1b;
-    color: #181a1b;
-}
-
 body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
+    background-color: #181a1b;
+    /* color: #e8e6e3;     のちに追加予定*/
 }
 
 a {
