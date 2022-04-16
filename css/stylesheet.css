@@ -16,6 +16,7 @@ a {
     width: 100%;
     padding: 0 15px;
     margin: 0 auto;
+    background-color: #181a1b00;
 }
 
 .top-wrapper {
@@ -160,7 +161,8 @@ header {
 }
 
 .message-wrapper {
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #f716ac;
+    background-color: #181a1b;
     padding-bottom: 80px;
     text-align: center;
 }
@@ -182,8 +184,12 @@ footer img {
     width: 125px;
 }
 
+footer {
+    background-color: #181a1b;
+}
+
 footer p {
-    color: #b3aeb5;
+    color: #d4f1e3;
     font-size: 12px;
 }
 
