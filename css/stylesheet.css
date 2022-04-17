@@ -206,6 +206,16 @@ footer {
     display: none;
 }
 
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    margin-right: auto;
+}
+
 .clear {
     clear: left;
 }
