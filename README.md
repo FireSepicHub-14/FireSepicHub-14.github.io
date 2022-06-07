@@ -6,6 +6,9 @@
 3. Pull Requests受付中...
 4. EN翻訳の融資募集中...
 
-___
+
 ## URL
-https://firesepichub-14.github.io
+[このweb page (damain)]
+(sephy.ml)
+[このweb page (github.io)]
+(https://firesepichub-14.github.io)
