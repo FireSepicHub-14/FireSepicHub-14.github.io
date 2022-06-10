@@ -13,4 +13,4 @@
 [このweb page (github.io)](https://firesepichub-14.github.io)
 
 [Discord  (main)](https://discord.gg/UK6meefHar)<br>
-[Discord  (dev)]
+[Discord  (dev)](https://discord.gg/5nz3EwzME3)
