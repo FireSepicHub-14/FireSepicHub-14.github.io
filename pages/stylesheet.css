@@ -19,8 +19,10 @@ a {
     background-color: #181a1b00;
 }
 
-.all-background-collar {
-    background-color: #F3DCB9
+.page-full {
+    height: 100vh;
+    width: 100vw;
+    background: #F3DCB9
 }
 
 .top-wrapper {
